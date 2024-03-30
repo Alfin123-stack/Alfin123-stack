@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Pyton_project**
 
-- 🌱 I’m currently learning **Pyton,C#, and little bit Java Script**
+- 🌱 I’m currently learning **Python,C#, and little bit Java Script**
 
 - 📫 How to reach me **alfinkarin789@gmail.com**
 
