@@ -20,16 +20,17 @@
 
 <h3 align="left">Technologies & Frameworks:</h3>
 <ul>
-  <li>Build websites using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> to create responsive and interactive user experiences.</li>
-  <li>Leverage <strong>SASS/SCSS</strong> for enhanced styling capabilities, allowing for nested rules and variables that streamline CSS development.</li>
-  <li>Utilize <strong>Node.js</strong> for server-side scripting, enabling JavaScript to be used for back-end development, enhancing the development of full-stack applications.</li>
+  <li>Construct websites utilizing <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> to create responsive and intuitively client experiences.</li>
+  <li>Use <strong>SASS/SCSS</strong> for improved styling capabilities, permitting nested rules and variables that streamline CSS development.</li>
+  <li>Utilize <strong>Node.js</strong> for server-side scripting, empowering JavaScript to be used for back-end development, enhancing the development of full-stack applications.</li>
   <li>Use <strong>React</strong> for building user interfaces, which allows for the creation of reusable components and efficient UI rendering.</li>
   <li>Incorporate <strong>Bootstrap</strong> to quickly develop responsive layouts and components, ensuring that websites are mobile-friendly.</li>
-  <li>Employ <strong>MongoDB</strong> and <strong>MySQL</strong> for database management, offering flexibility in storing data and supporting complex queries.</li>
+  <li>Utilize <strong>MongoDB</strong> and <strong>MySQL</strong> for database management, offering flexibility in storing data and supporting complex queries.</li>
   <li>Implement <strong>Express.js</strong> to streamline the development of Node.js applications, providing a robust set of features for web and mobile applications.</li>
   <li>Utilize <strong>Jest</strong> for unit testing, ensuring code reliability and helping to catch errors early in the development process.</li>
   <li>Adopt <strong>GitHub Actions</strong> for automating workflows, enabling Continuous Integration (CI) and Continuous Deployment (CD) for efficient project management.</li>
 </ul>
+
 
 
 
