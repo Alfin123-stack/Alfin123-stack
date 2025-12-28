@@ -21,7 +21,6 @@ Experienced in modern frontend architecture, state management, API integration, 
 ---
 
 ## 🎯 Core Expertise (Quick Scan for HR)
-
 - Frontend architecture & reusable component systems  
 - React ecosystem & modern JavaScript frameworks  
 - Responsive UI & UX implementation  
@@ -33,72 +32,77 @@ Experienced in modern frontend architecture, state management, API integration, 
 ## ⚛️ Frontend Tech Stack (Primary Skills)
 
 ### React & Frameworks
-- **React** – Hooks, performance optimization, reusable components  
-- **Next.js** – SSR, SSG, SEO optimization, routing  
-- **TypeScript** – Type-safe and scalable frontend development  
+- **React**, **Next.js**, **TypeScript**
 
-### State & Data Management
-- **Redux / Redux Toolkit** – Global state management  
-- **TanStack Query (React Query)** – Server state, caching, synchronization  
-- **React Router** – Client-side routing  
-- **Axios** – HTTP client & API communication  
+### State & Data
+- **Redux Toolkit**, **TanStack Query**, **React Router**
+- **Axios**, **React Hook Form**
 
-### Forms & UI Utilities
-- **React Hook Form** – Performant form handling  
-- **React Hot Toast** – Notifications & UX feedback  
-- **Recharts** – Charts & data visualization  
+### UI & Utilities
+- **Tailwind CSS**, **Styled Components**, **SASS**
+- **Recharts**, **React Hot Toast**
 
 ---
 
-## 🎨 Styling & UI Development
-- **Tailwind CSS** – Utility-first responsive UI  
-- **Styled Components** – CSS-in-JS styling  
-- **SASS / SCSS** – Modular styling  
-- **Bootstrap** – Rapid UI prototyping  
+## 🛠 Languages, Frameworks & Tools
 
----
-
-## 🧩 Backend, Database & BaaS
-- **Node.js** & **Express.js** – REST API development  
-- **Supabase** – Auth, database, storage  
-- **Firebase** – Auth & realtime database  
-- **Convex** – Reactive backend services  
-- **MongoDB** – NoSQL database  
-- **MySQL / PostgreSQL** – Relational databases  
-
----
-
-## 🧪 Tooling, Workflow & DevOps
-- **Git & GitHub** – Version control  
-- **GitHub Actions** – CI/CD pipelines  
-- **Jest** – Unit testing  
-- **Vite & Webpack** – Build tools  
-- **ESLint** – Code quality  
-
----
-
-## 🛠 Languages & Tools
-<p align="left">
+### 🌐 Core Web
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+</p>
+
+### ⚛️ Frontend Frameworks & Libraries
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="40"/>
+</p>
+
+### 🎨 Styling & UI
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+</p>
+
+### 🧩 Backend & Runtime
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+</p>
+
+### 🗄️ Database & BaaS
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40"/>
+</p>
+
+### 🧪 Testing, Build & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="40"/>
+</p>
+
+### 🔧 Version Control
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"/>
 </p>
 
 ---
 
 ## 🤝 Connect With Me
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/muhammadalfinalfarizi">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
@@ -110,8 +114,6 @@ Experienced in modern frontend architecture, state management, API integration, 
 ---
 
 ## 📊 GitHub Statistics
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfin123-stack&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfin123-stack&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack)
-
