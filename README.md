@@ -62,120 +62,116 @@ I specialize in **React.js and Next.js**, focusing on creating **clean, intuitiv
 
 ---
 
-## 🧩 Tech Stack & Libraries
+## 🛠 Tech Stack & Tools
 
-### 🌐 Core Web
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
+<p align="left">
+  <!-- Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
 
----
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="42"/>
 
-### ⚛️ Frontend Frameworks
-- React.js
-- Next.js
-- React Router
-- Redux Toolkit
+  <!-- Styling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
 
----
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
 
-### 🔄 State & Data Management
-- Redux Toolkit
-- TanStack Query (React Query)
-- Context API
-- Axios
-- REST API Integration
+  <!-- Database & BaaS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="42"/>
 
----
-
-### 📝 Forms & Validation
-- React Hook Form
-- Yup
-- Zod
-
----
-
-### 🎨 UI Libraries & Styling
-- Tailwind CSS
-- shadcn/ui
-- Material UI (MUI)
-- Ant Design
-- Sass (SCSS)
-- Bootstrap
-- CSS Modules
+  <!-- Tooling & Workflow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42"/>
+</p>
 
 ---
 
-### 🧱 Component & Utility Libraries
-- clsx
-- class-variance-authority (CVA)
-- date-fns
-- lodash
-- uuid
+## 📦 Commonly Used React & Next.js Libraries
 
----
+### 🧾 Forms & Validation
+- **React Hook Form**
+- **Formik**
+- **Yup**
+- **Zod**
 
-### 🖥 Backend & Server-Side
-- Node.js
-- Express.js
-- Next.js API Routes
+### 🎨 UI Component Libraries
+- **shadcn/ui**
+- **Material UI (MUI)**
+- **Chakra UI**
+- **Ant Design**
 
----
+### 🎛 Headless UI & Utilities
+- **Radix UI**
+- **Headless UI**
+- **clsx**
+- **class-variance-authority (CVA)**
 
-### 🗄 Database & BaaS
-- MongoDB
-- PostgreSQL
-- MySQL
-- Firebase
-- Supabase
+### 🔄 Data Fetching & Server State
+- **TanStack Query (React Query)**
+- **Axios**
+- **SWR**
 
----
+### 📂 Tables & Data Display
+- **TanStack Table**
+- **React Table**
+- **Recharts**
+- **Chart.js**
 
-### 🧪 Testing & Code Quality
-- Jest
-- ESLint
-- Prettier
+### 🧭 Routing & Navigation
+- **Next.js App Router**
+- **Next.js Pages Router**
+- **React Router DOM**
 
----
+### 🔐 Authentication & Security
+- **NextAuth.js**
+- **Firebase Auth**
+- **JWT**
 
-### ⚙️ Build Tools & Tooling
-- Vite
-- Webpack
-- Babel
-- npm / pnpm
+### ⚙️ Utilities & Helpers
+- **date-fns**
+- **lodash**
+- **uuid**
+- **nanoid**
 
----
-
-### 🔧 DevOps & Workflow
-- Git
-- GitHub
-- GitHub Actions (CI/CD)
-
----
-
-### 📐 Development Practices
-- Component-Based Architecture
-- Clean & Maintainable Code
-- Responsive & Accessible Design (a11y)
-- Performance Optimization
-- SEO Best Practices
+### 🧪 Testing & Debugging
+- **Jest**
+- **React Testing Library**
+- **MSW (Mock Service Worker)**
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&hide_border=true&background=FFFFFF&ring=0e75b6&fire=0e75b6&currStreakLabel=000000&sideLabels=000000&dates=666666" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
 
-🔹 Advanced **Next.js architecture & App Router**  
+🔹 Deepening expertise in **Next.js & modern frontend architecture**  
 🔹 Performance optimization & best practices  
-🔹 Building scalable UI systems with **Tailwind CSS & shadcn/ui**  
+🔹 Building scalable UI systems with **Tailwind CSS**  
 🔹 Creating production-ready applications with clean, maintainable code  
 
 ---
