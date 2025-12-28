@@ -114,12 +114,6 @@ I specialize in **React.js and Next.js**, focusing on creating **clean, intuitiv
 - **Jest** — JavaScript testing framework
 - **React Testing Library** — testing React components from a user perspective
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&cache_seconds=1800" />
-</p>
-
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -162,6 +156,15 @@ I specialize in **React.js and Next.js**, focusing on creating **clean, intuitiv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42"/>
 </p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&cache_seconds=1800" />
+</p>
+
 ---
 
 ## 🚀 Current Focus
