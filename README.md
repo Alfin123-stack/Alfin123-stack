@@ -105,6 +105,4 @@ Experienced in translating complex business requirements into **clean, intuitive
 ---
 
 ## 📊 GitHub Statistics 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfin123-stack&layout=compact&cache_seconds=1800) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfin123-stack&show_icons=true&cache_seconds=1800) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&cache_seconds=1800)
