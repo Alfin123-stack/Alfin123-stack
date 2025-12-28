@@ -108,15 +108,7 @@ I specialize in **React.js and Next.js**, focusing on creating **clean, intuitiv
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfin123-stack&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=0e75b6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&hide_border=true&background=FFFFFF&ring=0e75b6&fire=0e75b6&currStreakLabel=000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfin123-stack&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack" />
 </p>
 
 ---
