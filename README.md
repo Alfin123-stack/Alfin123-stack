@@ -21,34 +21,48 @@
 
 ## 👨‍💻 About Me
 
-Frontend Engineer based in **Indonesia 🇮🇩** with a strong focus on building **modern, scalable, and high-performance web applications** using **React.js and Next.js**.
+👋 Hi! I'm **Muhammad Alfin Alfarizi**, a **Frontend Engineer from Indonesia 🇮🇩** with a strong passion for building **modern, scalable, and high-performance web applications**.
 
-I specialize in transforming complex requirements into **clean, intuitive, and maintainable interfaces**, applying **modern frontend architecture**, efficient **state management**, and seamless **API integration**.
+I specialize in **React.js and Next.js**, focusing on creating **clean, intuitive, and maintainable user interfaces** that deliver real business value. I enjoy working at the intersection of **design, performance, and architecture**, ensuring applications are fast, accessible, and future-proof.
 
-I have hands-on experience with:
-- Client-side & server-side rendering (CSR, SSR, SSG)
-- Performance optimization & SEO-friendly architecture
-- Accessible, responsive, and user-focused UI development
+💡 I have solid experience with:
+- Client-Side & Server-Side Rendering (**CSR, SSR, SSG**)
+- SEO-friendly and performance-optimized frontend architecture
+- Building reusable component systems and design-driven UI
+- Consuming REST APIs and managing complex application states
 
-I value **clean code**, **scalable systems**, and **long-term maintainability**, and I enjoy collaborating in team-based environments using Git-based workflows.
+🧠 I strongly value **clean code**, **scalability**, and **long-term maintainability**, and I’m comfortable working both independently and in collaborative, team-based environments.
 
-📍 Indonesia  
-📩 **Contact:** alfinkarin789@gmail.com  
+📍 Location: Indonesia  
+📩 Contact: **alfinkarin789@gmail.com**
 
 ---
 
 ## 🎯 What I Do Best
 
-- Design and build **scalable frontend architectures**
-- Develop **high-quality React & Next.js applications**
-- Implement **state management & async data handling**
-- Create **pixel-perfect, responsive UI** from design systems
-- Optimize performance, SEO, and accessibility
-- Collaborate using Git, pull requests, and CI/CD workflows
+🚀 **Frontend Engineering**
+- Designing scalable and maintainable frontend architectures
+- Building modern web applications with React & Next.js
+
+⚙️ **Performance & Optimization**
+- Code splitting, lazy loading, and rendering optimization
+- SEO-ready pages with Next.js best practices
+
+🎨 **UI / UX Implementation**
+- Translating designs into pixel-perfect, responsive interfaces
+- Ensuring accessibility (a11y) and usability standards
+
+🔄 **State & Data Handling**
+- Managing global & server state efficiently
+- Integrating REST APIs with clean async flows
+
+🤝 **Collaboration & Workflow**
+- Git-based collaboration (branching, PRs, reviews)
+- CI/CD awareness and clean development workflows
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
 <p align="left">
   <!-- Core -->
@@ -79,13 +93,11 @@ I value **clean code**, **scalable systems**, and **long-term maintainability**,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="42"/>
 
-  <!-- Tooling -->
+  <!-- Tooling & Workflow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="42"/>
-
-  <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42"/>
@@ -96,18 +108,26 @@ I value **clean code**, **scalable systems**, and **long-term maintainability**,
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfin123-stack&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=0e75b6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&hide_border=true&background=FFFFFF&ring=0e75b6&fire=0e75b6&currStreakLabel=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfin123-stack&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
 
-- Advanced **Next.js architecture**
-- Performance optimization & best practices
-- Clean UI systems with Tailwind & design consistency
-- Building production-ready, scalable frontend apps
+🔹 Deepening expertise in **Next.js & modern frontend architecture**  
+🔹 Performance optimization & best practices  
+🔹 Building scalable UI systems with **Tailwind CSS**  
+🔹 Creating production-ready applications with clean, maintainable code  
 
 ---
 
-⭐️ _“Always learning, always building, always improving.”_
+✨ _“Consistency beats talent when talent doesn’t stay consistent.”_
