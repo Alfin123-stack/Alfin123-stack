@@ -1,84 +1,79 @@
 <h1 align="center">Muhammad Alfin Alfarizi</h1>
-<h3 align="center">
-  Frontend Engineer • React & Next.js Specialist • AI-Integrated Web Solutions
-</h3>
+<h3 align="center">Frontend Engineer | React & Next.js Specialist</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=alfin123-stack">
-    <img src="https://komarev.com/ghpvc/?username=alfin123-stack&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/alfin123-stack">
-    <img src="https://img.shields.io/github/followers/alfin123-stack?label=Followers&style=flat&color=0e75b6" />
-  </a>
+  Crafting modern, scalable, and high-performance web experiences with a strong focus on UI/UX, performance, and maintainable architecture.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alfin123-stack&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" />
+  <img src="https://komarev.com/ghpvc/?username=alfin123-stack&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alfin123-stack&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I’m a **Frontend Engineer based in Indonesia 🇮🇩**, specializing in building **modern, scalable, and high-performance web applications** using **React.js and Next.js**.
+Frontend Engineer based in **Indonesia 🇮🇩**, specializing in **React.js and Next.js** with a strong passion for building **clean, scalable, and user-focused web applications**.
 
-I focus on delivering **clean architecture**, **maintainable code**, and **exceptional user experiences**, while ensuring applications remain **fast, accessible, and SEO-friendly**.
+I focus on:
+- Turning complex requirements into **simple, intuitive interfaces**
+- Building **high-performance frontend architectures**
+- Ensuring **SEO-ready, accessible, and responsive** web experiences
+- Integrating frontend applications with **REST APIs and AI-powered features**
 
-Beyond frontend development, I also work on **fullstack features** and **AI-powered integrations**, enabling web applications to leverage intelligent automation, smart recommendations, and conversational interfaces.
-
-💡 I enjoy turning complex problems into **simple, elegant, and intuitive solutions**.
+I enjoy working with modern tools, best practices, and continuously improving code quality through **clean architecture, reusable components, and performance optimization**.
 
 📩 **Email:** `alfinkarin789@gmail.com`
 
 ---
 
-## 🧭 Professional Focus
+## 🚀 What I Do Best
 
-- Designing **scalable frontend architectures**
-- Building **production-ready React & Next.js applications**
-- Implementing **SSR, SSG & performance optimization**
-- Integrating **REST APIs & AI-powered services**
-- Writing **clean, testable, and maintainable code**
-- Collaborating in **Git-based, CI/CD-driven workflows**
+- Develop **production-ready frontend applications**
+- Build **scalable component-based systems**
+- Optimize **web performance, SEO, and accessibility**
+- Integrate applications with **backend APIs & AI services**
+- Translate UI designs into **pixel-perfect, responsive layouts**
 
 ---
 
-## 🚀 Core Skills & Expertise
+## 🎯 Core Skills & Expertise
 
-### 🧩 Frontend Architecture
-- Modular & reusable component systems  
-- Scalable folder & state architecture  
-- Design system–driven development  
+### 🧩 Frontend Development
+- React Hooks & component patterns  
+- Next.js (App Router & Pages Router)  
+- Server-Side Rendering (SSR) & Static Site Generation (SSG)  
+- Performance optimization & code splitting  
 
-### ⚛️ React & Next.js
-- React Hooks & advanced patterns  
-- Next.js App Router & Pages Router  
-- Server-Side Rendering (SSR) & Static Generation (SSG)  
-- Performance optimization & SEO best practices  
-
-### 🔄 State & Data Management
+### 🧠 State & Data Management
 - Redux Toolkit  
 - TanStack Query (React Query)  
-- RESTful API consumption & caching strategies  
+- REST API integration & async data handling  
 
-### 🎨 UI / UX Engineering
-- Responsive & mobile-first layouts  
+### 🎨 UI / UX Implementation
+- Responsive & mobile-first design  
 - Accessibility (a11y) best practices  
-- Pixel-perfect implementation from Figma  
+- Design system implementation  
+- Pixel-perfect UI from Figma / design specs  
+
+### ⚙️ Engineering Practices
+- Clean code & maintainable architecture  
+- Git-based collaboration workflow  
+- CI/CD with GitHub Actions  
+- Linting, formatting & testing  
 
 ### 🤖 AI Integration
-- AI-powered features in web apps  
-- Chatbot & automation integration  
-- API-based AI services for smarter UX  
-
-### 🛠 Workflow & Code Quality
-- Clean Code & SOLID principles  
-- ESLint & formatting standards  
-- CI/CD pipelines with GitHub Actions  
+- AI-powered features in web applications  
+- API-based AI integration  
+- Enhancing user experience with intelligent automation  
 
 ---
 
-## 🧰 Tech Stack
+## 🛠 Tech Stack
 
 ### 🌐 Core Web
 <p>
@@ -88,7 +83,7 @@ Beyond frontend development, I also work on **fullstack features** and **AI-powe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 </p>
 
-### ⚛️ Frontend
+### ⚛️ Frontend Ecosystem
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
@@ -96,30 +91,34 @@ Beyond frontend development, I also work on **fullstack features** and **AI-powe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="40"/>
 </p>
 
-### 🎨 Styling
+### 🎨 Styling & UI
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
 </p>
 
-### 🧠 Backend & Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/>
-</p>
-
-### 🧪 Tooling & DevOps
+### 🧪 Tooling & Testing
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40"/>
+</p>
+
+### 🔧 Backend & Database (Supporting)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/>
+</p>
+
+### 🔁 Version Control & CI/CD
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/>
@@ -127,7 +126,7 @@ Beyond frontend development, I also work on **fullstack features** and **AI-powe
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/muhammadalfinalfarizi">
@@ -140,14 +139,14 @@ Beyond frontend development, I also work on **fullstack features** and **AI-powe
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfin123-stack&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -157,5 +156,5 @@ Beyond frontend development, I also work on **fullstack features** and **AI-powe
 ---
 
 <p align="center">
-  <i>“Building meaningful web experiences with clean code, modern tools, and intelligent solutions.”</i>
+  <i>"Building meaningful digital experiences through clean code and thoughtful design."</i>
 </p>
