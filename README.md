@@ -20,7 +20,7 @@ Experienced in modern frontend architecture, state management, API integration, 
 
 ---
 
-## 🎯 Core Expertise (Quick Scan for HR)
+## 🎯 Core Expertise
 - Frontend architecture & reusable component systems  
 - React ecosystem & modern JavaScript frameworks  
 - Responsive UI & UX implementation  
@@ -29,71 +29,37 @@ Experienced in modern frontend architecture, state management, API integration, 
 
 ---
 
-## ⚛️ Frontend Tech Stack (Primary Skills)
-
-### React & Frameworks
-- **React**, **Next.js**, **TypeScript**
-
-### State & Data
-- **Redux Toolkit**, **TanStack Query**, **React Router**
-- **Axios**, **React Hook Form**
-
-### UI & Utilities
-- **Tailwind CSS**, **Styled Components**, **SASS**
-- **Recharts**, **React Hot Toast**
-
----
-
 ## 🛠 Languages, Frameworks & Tools
 
-### 🌐 Core Web
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-</p>
 
-### ⚛️ Frontend Frameworks & Libraries
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="40"/>
-</p>
 
-### 🎨 Styling & UI
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
-</p>
 
-### 🧩 Backend & Runtime
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-</p>
 
-### 🗄️ Database & BaaS
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40"/>
-</p>
 
-### 🧪 Testing, Build & DevOps
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="40"/>
-</p>
 
-### 🔧 Version Control
-<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"/>
@@ -114,6 +80,7 @@ Experienced in modern frontend architecture, state management, API integration, 
 ---
 
 ## 📊 GitHub Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfin123-stack&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfin123-stack&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfin123-stack&layout=compact&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfin123-stack&show_icons=true&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&cache_seconds=1800)
