@@ -108,7 +108,7 @@ I specialize in **React.js and Next.js**, focusing on creating **clean, intuitiv
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&hide_border=true" />
 </p>
 
 ---
