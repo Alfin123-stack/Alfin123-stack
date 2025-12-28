@@ -101,14 +101,11 @@ Capable of collaborating in **full-stack environments** and consuming backend se
 ---
 
 ## 📊 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfin123-stack&layout=compact"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfin123-stack&show_icons=true"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfin123-stack&layout=compact&theme=default)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfin123-stack&show_icons=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alfin123-stack&theme=default)
+
+---
