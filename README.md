@@ -108,56 +108,54 @@ I specialize in **React.js and Next.js**, focusing on creating **clean, intuitiv
 ## 📦 Commonly Used React & Next.js Libraries
 
 ### 🧾 Forms & Validation
-- **React Hook Form**
-- **Formik**
-- **Yup**
-- **Zod**
+- **React Hook Form** — performant and scalable form handling with minimal re-renders
+
+### 🧠 State Management
+- **Redux Toolkit** — predictable and scalable global state management
+- **Zustand** — lightweight, simple, and minimal global store
+- **Jotai** — atomic state management for fine-grained updates
+- **Recoil** — state management suited for complex UI state graphs
+- **Context API** — built-in React solution for sharing state across components
 
 ### 🎨 UI Component Libraries
-- **shadcn/ui**
-- **Material UI (MUI)**
-- **Chakra UI**
-- **Ant Design**
+- **shadcn/ui** — customizable, accessible components built on Radix UI
+- **Material UI (MUI)** — comprehensive React UI library following Material Design
+- **Chakra UI** — flexible and accessible component library with style props
 
 ### 🎛 Headless UI & Utilities
-- **Radix UI**
-- **Headless UI**
-- **clsx**
-- **class-variance-authority (CVA)**
+- **Radix UI** — low-level, accessible, unstyled UI primitives
+- **clsx** — utility for conditionally joining class names
+- **class-variance-authority (CVA)** — managing Tailwind variants and component styles
 
 ### 🔄 Data Fetching & Server State
-- **TanStack Query (React Query)**
-- **Axios**
-- **SWR**
+- **TanStack Query (React Query)** — server-state management with caching and syncing
+- **Axios** — promise-based HTTP client for API requests
 
 ### 📂 Tables & Data Display
-- **TanStack Table**
-- **React Table**
-- **Recharts**
-- **Chart.js**
+- **TanStack Table** — headless table logic for complex data grids
+- **React Table** — flexible table library for custom UI implementations
+- **Recharts** — composable charting library built on React
+- **Chart.js** — simple and powerful charting solution
 
 ### 🧭 Routing & Navigation
-- **Next.js App Router**
-- **Next.js Pages Router**
-- **React Router DOM**
+- **Next.js App Router** — modern file-based routing with server components
+- **Next.js Pages Router** — traditional routing system for legacy Next.js apps
+- **React Router DOM** — declarative routing for React SPA
 
 ### 🔐 Authentication & Security
-- **NextAuth.js**
-- **Firebase Auth**
-- **JWT**
+- **NextAuth.js** — authentication solution for Next.js applications
+- **Firebase Auth** — managed authentication service by Firebase
+- **JWT** — token-based authentication mechanism
 
 ### ⚙️ Utilities & Helpers
-- **date-fns**
-- **lodash**
-- **uuid**
-- **nanoid**
+- **date-fns** — modern JavaScript date utility library
+- **lodash** — utility functions for common programming tasks
+- **uuid** — unique identifier generation
+- **nanoid** — small, fast, and secure ID generator
 
 ### 🧪 Testing & Debugging
-- **Jest**
-- **React Testing Library**
-- **MSW (Mock Service Worker)**
-
----
+- **Jest** — JavaScript testing framework
+- **React Testing Library** — testing React components from a user perspective
 
 ## 📊 GitHub Statistics
 
